@@ -1,0 +1,6 @@
+framework module renxqNetwork {
+  umbrella header "renxqNetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}

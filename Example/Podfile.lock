@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - renxqNetwork (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - renxqNetwork (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  renxqNetwork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  renxqNetwork: f7480c7398875ff1bdf8939f726f54bbd1157fca
+
+PODFILE CHECKSUM: 8da650a861e86425d629d6f4fee449000db210e3
+
+COCOAPODS: 1.10.0
