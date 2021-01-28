@@ -10,6 +10,10 @@
 #endif
 #endif
 
+#import "JMLongingCell.h"
+#import "JMLongingControler.h"
+#import "JMPhoneBtn.h"
+#import "JMRemberUser.h"
 
 FOUNDATION_EXPORT double renxqNetworkVersionNumber;
 FOUNDATION_EXPORT const unsigned char renxqNetworkVersionString[];

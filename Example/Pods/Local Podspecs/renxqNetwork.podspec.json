@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of renxqNetwork.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/renxq/renxqNetwork",
+  "homepage": "https://github.com/renxueqiang/renxqNetwork",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,11 @@
     "renxq": "renxq@centaline.con"
   },
   "source": {
-    "git": "https://github.com/renxq/renxqNetwork.git",
+    "git": "https://github.com/renxueqiang/renxqNetwork.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "renxqNetwork/Classes/**/*"
+  "source_files": "renxqNetwork/Classes/**/*.{h,m}"
 }

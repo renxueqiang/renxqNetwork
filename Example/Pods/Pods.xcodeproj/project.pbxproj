@@ -8,129 +8,145 @@
 
 /* Begin PBXBuildFile section */
 		00224C929D57F45B70E87359E719948D /* FBSnapshotTestCase.h in Headers */ = {isa = PBXBuildFile; fileRef = FEE661E58CA6655B39AA49AA4C021C33 /* FBSnapshotTestCase.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		07C7A48A747B3F917E723165F0D7E6A0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57221B54D014471C3D3E1925EFC917C8 /* Foundation.framework */; };
+		04A2BE3966A9FB7FC143865D11189C3C /* JMPhoneBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EAAED8B814530EDB611D6620F48D658 /* JMPhoneBtn.m */; };
+		0CFC5C6A3ADF2EA56A94380EA6B425BA /* JMRemberUser.h in Headers */ = {isa = PBXBuildFile; fileRef = EA6C80DEF4030F1312F871D98BA06BC6 /* JMRemberUser.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		11C410135C7E89353B480AC8DE0BFB77 /* UIApplication+StrictKeyWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F538C426803AE34255FC6E35B408CCA /* UIApplication+StrictKeyWindow.m */; };
 		121439AB6B4061E1B6222256817548FA /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E658F388F01C72599CA75537950B6095 /* XCTest.framework */; };
+		140A1625D4E5DD1DCC9133BA9EB16B66 /* JMLongingCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A186A250926B4838D3AEE1AF376A5909 /* JMLongingCell.m */; };
 		14AD81D52FAD9CF2C065C61FB00C3B4F /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = 4568279DE47DC3AB91598E1317503995 /* UIImage+Diff.m */; };
 		21751118CF1DE9C54680F471CE9091E6 /* Pods-renxqNetwork_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 561D9DEE1D6FC310099968AFDA0DF4D5 /* Pods-renxqNetwork_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2A78128D0467FC8858109EF43718963A /* Pods-renxqNetwork_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D116D77CFE7E5454A443FB9A821A455A /* Pods-renxqNetwork_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2DCFF0CE0BD295F1D46D3247F36B192C /* UIImage+Compare.m in Sources */ = {isa = PBXBuildFile; fileRef = 235A78CFFA6D8B8D86CACD733531CB13 /* UIImage+Compare.m */; };
 		2E4C0BD2363ABABB6470FBA5415985AA /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3280BB5E7B57C31D41117A74F76E9DF3 /* QuartzCore.framework */; };
 		32905A331F7995CBE385EA1D63EB5AD6 /* Pods-renxqNetwork_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D482E8257245BA3915EF1A7BB005351 /* Pods-renxqNetwork_Example-dummy.m */; };
+		337412B1DED1BF7AA86A0EE572D3DACF /* JMLongingControler.m in Sources */ = {isa = PBXBuildFile; fileRef = E9C381AC49C36FDC2553EFCA6576C36D /* JMLongingControler.m */; };
 		40039E0AF0D764360B1D4FC4F7950D2E /* UIApplication+StrictKeyWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = 99A67367E018411D614EC8536A8A1C5B /* UIApplication+StrictKeyWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		59DA64D580E06DB4C41A2C79D40CF2DD /* renxqNetwork-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BEB80ABCA6D62574431F90876FC508A0 /* renxqNetwork-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		567F645318023F80606B2FF529C47FB8 /* JMRemberUser.m in Sources */ = {isa = PBXBuildFile; fileRef = E03E3B8F7F9B542DA4F5B382882EAE6E /* JMRemberUser.m */; };
 		632D608D09CCCC3C05089E0598443C20 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57221B54D014471C3D3E1925EFC917C8 /* Foundation.framework */; };
+		66EADFF2A6E7720FA9079B98CFE8692E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57221B54D014471C3D3E1925EFC917C8 /* Foundation.framework */; };
+		67BB68BE80580DFF1AC3B19C81633D6B /* renxqNetwork-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C0AEFB3826645CCCC750110D72B04802 /* renxqNetwork-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6DBC8EB7532E931C2FBDA71D1E0B66A4 /* FBSnapshotTestCase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ADA6E655DC84D06359BD0ED5E36C783 /* FBSnapshotTestCase-dummy.m */; };
+		7F02465E4FB92127E65A0199C3503A1D /* JMLongingControler.h in Headers */ = {isa = PBXBuildFile; fileRef = 21F379F53F1971D84D53A2823C1C577E /* JMLongingControler.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		88396E68DC05A379282F3B374F75F43C /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E1B7EA746BF6557FD565BAE12AF9198 /* FBSnapshotTestController.m */; };
+		8BA168E6E4F1E8EAB8625D5A75969D15 /* JMLongingCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 0F9BC8B05A769289FDF5E3E13BAAB51F /* JMLongingCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8CE3BF0ACE07EA42DD5DAC871BF4B767 /* FBSnapshotTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 277B6BE10C665F515606A22FD60C6DCC /* FBSnapshotTestCase.m */; };
 		90142C6259374E18E640396A59AD379A /* FBSnapshotTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = AE9FF9459FBCDC4AF88FB6B5A4CC1439 /* FBSnapshotTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9D65089019D558E5A9661F2DCAD20313 /* SwiftSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0D66CF296ABBC57EC4D0452397E235 /* SwiftSupport.swift */; };
 		A14E8395FDF01C22136D9CC9F1490C05 /* Pods-renxqNetwork_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DB6478F7BAE124273B3C6009C01F2173 /* Pods-renxqNetwork_Tests-dummy.m */; };
 		A525E29E0A8079B35B793D8A2B5FBDF2 /* UIImage+Snapshot.m in Sources */ = {isa = PBXBuildFile; fileRef = D872A3EE224412D4057C234FBC629F9C /* UIImage+Snapshot.m */; };
 		B74CD6E6EBEA0B642776BCB37850415D /* UIImage+Snapshot.h in Headers */ = {isa = PBXBuildFile; fileRef = 284833D18C244D2B42966B6EE425AA59 /* UIImage+Snapshot.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		B98612B5DD1D34756A099B974CB77A86 /* JMPhoneBtn.h in Headers */ = {isa = PBXBuildFile; fileRef = 16CF1D17C6DE5B12F619318AB99E3A46 /* JMPhoneBtn.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BD4953074A12E769ED4E6C94F5E73694 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DA24A38BA9EE106B59E3D4C8DD1CE0E /* UIKit.framework */; };
-		BF955F7A19F90C57108FF1D4B498E3E9 /* renxqNetwork-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BF268A4775D743F693895E0BB4971770 /* renxqNetwork-dummy.m */; };
 		C49D52712466511E332C952834C81FE1 /* FBSnapshotTestCasePlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = 88B1DEEBF6316A84D7413645212492FF /* FBSnapshotTestCasePlatform.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CA63ADACAC6C2BF1E30108E6BEF68A09 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57221B54D014471C3D3E1925EFC917C8 /* Foundation.framework */; };
 		D04AAC8B22E4A4DC4F39891C4E52F251 /* UIImage+Diff.h in Headers */ = {isa = PBXBuildFile; fileRef = 96187BF3038121CC146335E9FF0B0AFF /* UIImage+Diff.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		E8AC509D18EBF21B1FEA909652A01108 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = 6ABB3EB3CCC5BCA82F40FE8DC87BB778 /* FBSnapshotTestCasePlatform.m */; };
+		EA54329439F0B24931C264136FF0D0E0 /* renxqNetwork-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 764EEAB89DC6DCE92F93907F71D78327 /* renxqNetwork-dummy.m */; };
 		EC3D14070CFEFA7D3D714035422BA785 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57221B54D014471C3D3E1925EFC917C8 /* Foundation.framework */; };
 		F1AAAE00BB32B733B238E2B4E8424506 /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = 656116C8FA5458F45D4707110C9530EC /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		F720FAF13A108CE6901E0A8B0580E1E8 /* FBSnapshotTestCase-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8E5923010B02074CAA9AAF6EA02D66AA /* FBSnapshotTestCase-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		665C31568F9416CF4EF3B5BAB92C1EAA /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 98A98149697C80CEF8D5772791E92E66;
-			remoteInfo = FBSnapshotTestCase;
-		};
-		85145DE201C856F9577C08833797EF47 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = E8DC7F116E054255FA0ABBDDC0F93837;
-			remoteInfo = "Pods-renxqNetwork_Example";
-		};
-		AB063FCE45DF0CAF0C6D8D99DA2BA683 /* PBXContainerItemProxy */ = {
+		08B765E848336CEBED7008A070A6A6C9 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 095AC6F6F21931760E9B5551A1D01E6C;
 			remoteInfo = renxqNetwork;
 		};
+		6057040F827B76A28EAB272EA443369D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E8DC7F116E054255FA0ABBDDC0F93837;
+			remoteInfo = "Pods-renxqNetwork_Example";
+		};
+		F88369D72A7F94834C43B424C9109852 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 98A98149697C80CEF8D5772791E92E66;
+			remoteInfo = FBSnapshotTestCase;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		074F483D995F3A0B169C548CC9496462 /* renxqNetwork.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = renxqNetwork.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		0F17107560A78A6BBE7B22A8E9EFAC47 /* renxqNetwork.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = renxqNetwork.modulemap; sourceTree = "<group>"; };
+		074F483D995F3A0B169C548CC9496462 /* renxqNetwork.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = renxqNetwork.framework; path = renxqNetwork.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F538C426803AE34255FC6E35B408CCA /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
-		157C6B247F00500B520545A66F18645D /* renxqNetwork.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = renxqNetwork.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		1778B3C454568B64CFB6D56C23DDB34E /* renxqNetwork.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = renxqNetwork.debug.xcconfig; sourceTree = "<group>"; };
+		0F9BC8B05A769289FDF5E3E13BAAB51F /* JMLongingCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = JMLongingCell.h; path = renxqNetwork/Classes/JMLongingCell.h; sourceTree = "<group>"; };
+		16CF1D17C6DE5B12F619318AB99E3A46 /* JMPhoneBtn.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = JMPhoneBtn.h; path = renxqNetwork/Classes/JMPhoneBtn.h; sourceTree = "<group>"; };
 		187A5E490FCAFD5F24356B4F3ADCE88B /* Pods-renxqNetwork_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-renxqNetwork_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		1ADA6E655DC84D06359BD0ED5E36C783 /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
 		1DA24A38BA9EE106B59E3D4C8DD1CE0E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		1EAAED8B814530EDB611D6620F48D658 /* JMPhoneBtn.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = JMPhoneBtn.m; path = renxqNetwork/Classes/JMPhoneBtn.m; sourceTree = "<group>"; };
+		1F1531895B4BAE07ED7F727933A77A11 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		202C95B9C59BF2D55B8A0E3377596F88 /* Pods-renxqNetwork_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-renxqNetwork_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		21F379F53F1971D84D53A2823C1C577E /* JMLongingControler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = JMLongingControler.h; path = renxqNetwork/Classes/JMLongingControler.h; sourceTree = "<group>"; };
 		235A78CFFA6D8B8D86CACD733531CB13 /* UIImage+Compare.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Compare.m"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.m"; sourceTree = "<group>"; };
 		277B6BE10C665F515606A22FD60C6DCC /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
 		284833D18C244D2B42966B6EE425AA59 /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
-		2A0853B730E5D8205B3E05842B91953B /* renxqNetwork-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "renxqNetwork-Info.plist"; sourceTree = "<group>"; };
 		2D482E8257245BA3915EF1A7BB005351 /* Pods-renxqNetwork_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-renxqNetwork_Example-dummy.m"; sourceTree = "<group>"; };
 		3280BB5E7B57C31D41117A74F76E9DF3 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
+		394B04DC00556C589C0D29F259E19076 /* renxqNetwork.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = renxqNetwork.modulemap; sourceTree = "<group>"; };
 		3F0D66CF296ABBC57EC4D0452397E235 /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
+		439D2906E85574C8DA70E7BB35341025 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		4568279DE47DC3AB91598E1317503995 /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
-		47B6DBDE751D10FCE82175B10CB92F10 /* Pods_renxqNetwork_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_renxqNetwork_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		47B6DBDE751D10FCE82175B10CB92F10 /* Pods_renxqNetwork_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_renxqNetwork_Example.framework; path = "Pods-renxqNetwork_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C3E28547406BC666DBB3F020C38F613 /* Pods-renxqNetwork_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-renxqNetwork_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		4C6513B09838318BD763CFD5390D1DE0 /* FBSnapshotTestCase.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.release.xcconfig; sourceTree = "<group>"; };
-		54B73174104ECFAE637149AAAF62E0EF /* Pods_renxqNetwork_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_renxqNetwork_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		54855E2250D16B558622FD971EA9CB3E /* renxqNetwork.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = renxqNetwork.release.xcconfig; sourceTree = "<group>"; };
+		54B73174104ECFAE637149AAAF62E0EF /* Pods_renxqNetwork_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_renxqNetwork_Tests.framework; path = "Pods-renxqNetwork_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		561D9DEE1D6FC310099968AFDA0DF4D5 /* Pods-renxqNetwork_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-renxqNetwork_Tests-umbrella.h"; sourceTree = "<group>"; };
 		57221B54D014471C3D3E1925EFC917C8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		599D7ED198640B93DDE9F2B623FC56A4 /* Pods-renxqNetwork_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-renxqNetwork_Example-frameworks.sh"; sourceTree = "<group>"; };
-		5C4F31330DFA99D699E4BDC8C3573D73 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5C4F31330DFA99D699E4BDC8C3573D73 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C7EFB8D808B5DDAAD0D37C071AF623F /* Pods-renxqNetwork_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-renxqNetwork_Tests-Info.plist"; sourceTree = "<group>"; };
+		62A9B649A562B2DC5C5633E4239AEC5E /* renxqNetwork.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = renxqNetwork.debug.xcconfig; sourceTree = "<group>"; };
 		656116C8FA5458F45D4707110C9530EC /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
 		6691FD39CF784B903004BA3DA398C217 /* Pods-renxqNetwork_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-renxqNetwork_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		6ABB3EB3CCC5BCA82F40FE8DC87BB778 /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
 		72ADC4F7673A3997ADF858B69D9FD13E /* Pods-renxqNetwork_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-renxqNetwork_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		764EEAB89DC6DCE92F93907F71D78327 /* renxqNetwork-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "renxqNetwork-dummy.m"; sourceTree = "<group>"; };
 		7CCB989FF91DDC403C16946D8CD849F4 /* Pods-renxqNetwork_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-renxqNetwork_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		7E1B7EA746BF6557FD565BAE12AF9198 /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
 		88B1DEEBF6316A84D7413645212492FF /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
 		8901092E548081CC47F9596DF07B9787 /* Pods-renxqNetwork_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-renxqNetwork_Example-Info.plist"; sourceTree = "<group>"; };
 		8E5923010B02074CAA9AAF6EA02D66AA /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
 		9468E867498BBAF36F9AFFE4845F8B09 /* FBSnapshotTestCase.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.debug.xcconfig; sourceTree = "<group>"; };
+		95C4C19E4C9530D00BB657146B789E40 /* renxqNetwork-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "renxqNetwork-prefix.pch"; sourceTree = "<group>"; };
 		96187BF3038121CC146335E9FF0B0AFF /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
 		99A67367E018411D614EC8536A8A1C5B /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9FF64289B13FC1C34BDD668904FF62BD /* Pods-renxqNetwork_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-renxqNetwork_Example.modulemap"; sourceTree = "<group>"; };
-		A4303F99DB1F8BA6F7276B5DABF977E8 /* renxqNetwork-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "renxqNetwork-prefix.pch"; sourceTree = "<group>"; };
+		A186A250926B4838D3AEE1AF376A5909 /* JMLongingCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = JMLongingCell.m; path = renxqNetwork/Classes/JMLongingCell.m; sourceTree = "<group>"; };
 		AE9FF9459FBCDC4AF88FB6B5A4CC1439 /* FBSnapshotTestController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestController.h; path = FBSnapshotTestCase/FBSnapshotTestController.h; sourceTree = "<group>"; };
-		B62781BFDFC22F165F2FC1D3EA2B30F2 /* renxqNetwork.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = renxqNetwork.release.xcconfig; sourceTree = "<group>"; };
 		B7103CA00AED20722C5B69CA5B4F6938 /* FBSnapshotTestCase-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FBSnapshotTestCase-Info.plist"; sourceTree = "<group>"; };
-		BEB80ABCA6D62574431F90876FC508A0 /* renxqNetwork-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "renxqNetwork-umbrella.h"; sourceTree = "<group>"; };
-		BF268A4775D743F693895E0BB4971770 /* renxqNetwork-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "renxqNetwork-dummy.m"; sourceTree = "<group>"; };
-		C42165BE5877062E73B46CEBBD3AE381 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C0AEFB3826645CCCC750110D72B04802 /* renxqNetwork-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "renxqNetwork-umbrella.h"; sourceTree = "<group>"; };
 		CBFF6C5FD9C3A84274A9314D3E940B6E /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
+		CFB231050846E8A2B9EEF04C1E4573C3 /* renxqNetwork-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "renxqNetwork-Info.plist"; sourceTree = "<group>"; };
 		D08CEBB9BDD9EF7A662ECFC0305C169E /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
 		D116D77CFE7E5454A443FB9A821A455A /* Pods-renxqNetwork_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-renxqNetwork_Example-umbrella.h"; sourceTree = "<group>"; };
 		D872A3EE224412D4057C234FBC629F9C /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
 		DB60E6E216935892924558F8A4CB1406 /* Pods-renxqNetwork_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-renxqNetwork_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		DB6478F7BAE124273B3C6009C01F2173 /* Pods-renxqNetwork_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-renxqNetwork_Tests-dummy.m"; sourceTree = "<group>"; };
-		DB7F5A06C5B17AEF6ACE59DF169B456F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		DC677B8D2FD0CF77B1A34EAC552C49F5 /* renxqNetwork.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = renxqNetwork.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		DE0BC2C6DB0BA847CF98F7CFF935EE88 /* Pods-renxqNetwork_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-renxqNetwork_Tests.modulemap"; sourceTree = "<group>"; };
+		E03E3B8F7F9B542DA4F5B382882EAE6E /* JMRemberUser.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = JMRemberUser.m; path = renxqNetwork/Classes/JMRemberUser.m; sourceTree = "<group>"; };
 		E658F388F01C72599CA75537950B6095 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		E9C381AC49C36FDC2553EFCA6576C36D /* JMLongingControler.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = JMLongingControler.m; path = renxqNetwork/Classes/JMLongingControler.m; sourceTree = "<group>"; };
+		EA6C80DEF4030F1312F871D98BA06BC6 /* JMRemberUser.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = JMRemberUser.h; path = renxqNetwork/Classes/JMRemberUser.h; sourceTree = "<group>"; };
 		F5D7720561F5B3620BE83BE89297640D /* Pods-renxqNetwork_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-renxqNetwork_Example.release.xcconfig"; sourceTree = "<group>"; };
 		F5FFF47E57498ACDCD1E56761A45B68C /* Pods-renxqNetwork_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-renxqNetwork_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		FEE661E58CA6655B39AA49AA4C021C33 /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		0C7ADDF91E4B683D0CD03316B75AEF06 /* Frameworks */ = {
+		8BCAFA11ABE72C747CB2CE9CEC2DEB79 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				07C7A48A747B3F917E723165F0D7E6A0 /* Foundation.framework in Frameworks */,
+				66EADFF2A6E7720FA9079B98CFE8692E /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -192,6 +208,14 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		30D2EEBC74AC247AD7372C9CC948896A /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FC46B102824FF44AA5643E229851EBB1 /* renxqNetwork */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
 		49E9F5849AA946B7886682487052D358 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -239,12 +263,37 @@
 			path = "Target Support Files/Pods-renxqNetwork_Example";
 			sourceTree = "<group>";
 		};
+		7A6678E221F0BC0AC951A1213971C079 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				1F1531895B4BAE07ED7F727933A77A11 /* LICENSE */,
+				439D2906E85574C8DA70E7BB35341025 /* README.md */,
+				DC677B8D2FD0CF77B1A34EAC552C49F5 /* renxqNetwork.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 		906402ECC4C6C5EB58DD365FD2C64E92 /* SwiftSupport */ = {
 			isa = PBXGroup;
 			children = (
 				3F0D66CF296ABBC57EC4D0452397E235 /* SwiftSupport.swift */,
 			);
 			name = SwiftSupport;
+			sourceTree = "<group>";
+		};
+		AA621C72C3BEAC943A2451132E23AA8F /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				394B04DC00556C589C0D29F259E19076 /* renxqNetwork.modulemap */,
+				764EEAB89DC6DCE92F93907F71D78327 /* renxqNetwork-dummy.m */,
+				CFB231050846E8A2B9EEF04C1E4573C3 /* renxqNetwork-Info.plist */,
+				95C4C19E4C9530D00BB657146B789E40 /* renxqNetwork-prefix.pch */,
+				C0AEFB3826645CCCC750110D72B04802 /* renxqNetwork-umbrella.h */,
+				62A9B649A562B2DC5C5633E4239AEC5E /* renxqNetwork.debug.xcconfig */,
+				54855E2250D16B558622FD971EA9CB3E /* renxqNetwork.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/renxqNetwork";
 			sourceTree = "<group>";
 		};
 		B69B2ECE2D2C9A3924A9231138CE0BBC /* Support Files */ = {
@@ -270,14 +319,6 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		BB2ECC32BDFC89CD3B9715E2B440019D /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				D6699CBF77F80B2C0C98FF796893FC6D /* renxqNetwork */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
 		BD2D60DE56CBB8C87BA07E0C1CCD0592 /* FBSnapshotTestCase */ = {
 			isa = PBXGroup;
 			children = (
@@ -285,54 +326,20 @@
 				B69B2ECE2D2C9A3924A9231138CE0BBC /* Support Files */,
 				906402ECC4C6C5EB58DD365FD2C64E92 /* SwiftSupport */,
 			);
+			name = FBSnapshotTestCase;
 			path = FBSnapshotTestCase;
-			sourceTree = "<group>";
-		};
-		C9A41D025FA844B4E40A852DD45E1E9C /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				DB7F5A06C5B17AEF6ACE59DF169B456F /* LICENSE */,
-				C42165BE5877062E73B46CEBBD3AE381 /* README.md */,
-				157C6B247F00500B520545A66F18645D /* renxqNetwork.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		C9FADF31DB92EEA314EEA7432D1F6E67 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				0F17107560A78A6BBE7B22A8E9EFAC47 /* renxqNetwork.modulemap */,
-				BF268A4775D743F693895E0BB4971770 /* renxqNetwork-dummy.m */,
-				2A0853B730E5D8205B3E05842B91953B /* renxqNetwork-Info.plist */,
-				A4303F99DB1F8BA6F7276B5DABF977E8 /* renxqNetwork-prefix.pch */,
-				BEB80ABCA6D62574431F90876FC508A0 /* renxqNetwork-umbrella.h */,
-				1778B3C454568B64CFB6D56C23DDB34E /* renxqNetwork.debug.xcconfig */,
-				B62781BFDFC22F165F2FC1D3EA2B30F2 /* renxqNetwork.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/renxqNetwork";
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				BB2ECC32BDFC89CD3B9715E2B440019D /* Development Pods */,
+				30D2EEBC74AC247AD7372C9CC948896A /* Development Pods */,
 				BA4F31F07263C99FC76E66D632A59F09 /* Frameworks */,
 				E81A37DBDE41E671312C56736544E2FA /* Pods */,
 				25E13172BCBA60760E1AA27FC06BC4AF /* Products */,
 				49E9F5849AA946B7886682487052D358 /* Targets Support Files */,
 			);
-			sourceTree = "<group>";
-		};
-		D6699CBF77F80B2C0C98FF796893FC6D /* renxqNetwork */ = {
-			isa = PBXGroup;
-			children = (
-				C9A41D025FA844B4E40A852DD45E1E9C /* Pod */,
-				C9FADF31DB92EEA314EEA7432D1F6E67 /* Support Files */,
-			);
-			name = renxqNetwork;
-			path = ../..;
 			sourceTree = "<group>";
 		};
 		E81A37DBDE41E671312C56736544E2FA /* Pods */ = {
@@ -354,6 +361,24 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		FC46B102824FF44AA5643E229851EBB1 /* renxqNetwork */ = {
+			isa = PBXGroup;
+			children = (
+				0F9BC8B05A769289FDF5E3E13BAAB51F /* JMLongingCell.h */,
+				A186A250926B4838D3AEE1AF376A5909 /* JMLongingCell.m */,
+				21F379F53F1971D84D53A2823C1C577E /* JMLongingControler.h */,
+				E9C381AC49C36FDC2553EFCA6576C36D /* JMLongingControler.m */,
+				16CF1D17C6DE5B12F619318AB99E3A46 /* JMPhoneBtn.h */,
+				1EAAED8B814530EDB611D6620F48D658 /* JMPhoneBtn.m */,
+				EA6C80DEF4030F1312F871D98BA06BC6 /* JMRemberUser.h */,
+				E03E3B8F7F9B542DA4F5B382882EAE6E /* JMRemberUser.m */,
+				7A6678E221F0BC0AC951A1213971C079 /* Pod */,
+				AA621C72C3BEAC943A2451132E23AA8F /* Support Files */,
+			);
+			name = renxqNetwork;
+			path = ../..;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -369,6 +394,18 @@
 				F1AAAE00BB32B733B238E2B4E8424506 /* UIImage+Compare.h in Headers */,
 				D04AAC8B22E4A4DC4F39891C4E52F251 /* UIImage+Diff.h in Headers */,
 				B74CD6E6EBEA0B642776BCB37850415D /* UIImage+Snapshot.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		59F2E4DF184D61D932FD46BFF4DEE6CA /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8BA168E6E4F1E8EAB8625D5A75969D15 /* JMLongingCell.h in Headers */,
+				7F02465E4FB92127E65A0199C3503A1D /* JMLongingControler.h in Headers */,
+				B98612B5DD1D34756A099B974CB77A86 /* JMPhoneBtn.h in Headers */,
+				0CFC5C6A3ADF2EA56A94380EA6B425BA /* JMRemberUser.h in Headers */,
+				67BB68BE80580DFF1AC3B19C81633D6B /* renxqNetwork-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -388,25 +425,17 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FD2CE62C83DC73C11802AD06BCF1C14C /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				59DA64D580E06DB4C41A2C79D40CF2DD /* renxqNetwork-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
 		095AC6F6F21931760E9B5551A1D01E6C /* renxqNetwork */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AF957861E087B8F1F19E04C6FF3883D3 /* Build configuration list for PBXNativeTarget "renxqNetwork" */;
+			buildConfigurationList = A2ED3402F9CBC8CAE3800E7E8F7DD803 /* Build configuration list for PBXNativeTarget "renxqNetwork" */;
 			buildPhases = (
-				FD2CE62C83DC73C11802AD06BCF1C14C /* Headers */,
-				CC12C59D09A365FA99B9DF796D76F418 /* Sources */,
-				0C7ADDF91E4B683D0CD03316B75AEF06 /* Frameworks */,
-				50EB36328DB6C25F80A307292E93209D /* Resources */,
+				59F2E4DF184D61D932FD46BFF4DEE6CA /* Headers */,
+				A9D912F981DC7420F0262CA6C41D3F5E /* Sources */,
+				8BCAFA11ABE72C747CB2CE9CEC2DEB79 /* Frameworks */,
+				4B2CA0531D6CA3A89444D89613EB1844 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -429,8 +458,8 @@
 			buildRules = (
 			);
 			dependencies = (
-				3D656354F72B3416212D6790B945E02C /* PBXTargetDependency */,
-				B776E42E6593BAF00896DD8A1920BCF4 /* PBXTargetDependency */,
+				95E3370EA895183BBD500134487F9252 /* PBXTargetDependency */,
+				1178DBE70B659AB22FFAFE722A59D305 /* PBXTargetDependency */,
 			);
 			name = "Pods-renxqNetwork_Tests";
 			productName = "Pods-renxqNetwork_Tests";
@@ -467,7 +496,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				2F6C32ED98DABCC0141F3F5EBB93A2FD /* PBXTargetDependency */,
+				F53FFB71E70DCA7CB3A5E733831DB7E2 /* PBXTargetDependency */,
 			);
 			name = "Pods-renxqNetwork_Example";
 			productName = "Pods-renxqNetwork_Example";
@@ -512,7 +541,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		50EB36328DB6C25F80A307292E93209D /* Resources */ = {
+		4B2CA0531D6CA3A89444D89613EB1844 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -560,6 +589,18 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		A9D912F981DC7420F0262CA6C41D3F5E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				140A1625D4E5DD1DCC9133BA9EB16B66 /* JMLongingCell.m in Sources */,
+				337412B1DED1BF7AA86A0EE572D3DACF /* JMLongingControler.m in Sources */,
+				04A2BE3966A9FB7FC143865D11189C3C /* JMPhoneBtn.m in Sources */,
+				567F645318023F80606B2FF529C47FB8 /* JMRemberUser.m in Sources */,
+				EA54329439F0B24931C264136FF0D0E0 /* renxqNetwork-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		AB1E2A837ABC81ACF83AE9EEEF4F663C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -568,34 +609,26 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CC12C59D09A365FA99B9DF796D76F418 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				BF955F7A19F90C57108FF1D4B498E3E9 /* renxqNetwork-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		2F6C32ED98DABCC0141F3F5EBB93A2FD /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = renxqNetwork;
-			target = 095AC6F6F21931760E9B5551A1D01E6C /* renxqNetwork */;
-			targetProxy = AB063FCE45DF0CAF0C6D8D99DA2BA683 /* PBXContainerItemProxy */;
-		};
-		3D656354F72B3416212D6790B945E02C /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = FBSnapshotTestCase;
-			target = 98A98149697C80CEF8D5772791E92E66 /* FBSnapshotTestCase */;
-			targetProxy = 665C31568F9416CF4EF3B5BAB92C1EAA /* PBXContainerItemProxy */;
-		};
-		B776E42E6593BAF00896DD8A1920BCF4 /* PBXTargetDependency */ = {
+		1178DBE70B659AB22FFAFE722A59D305 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-renxqNetwork_Example";
 			target = E8DC7F116E054255FA0ABBDDC0F93837 /* Pods-renxqNetwork_Example */;
-			targetProxy = 85145DE201C856F9577C08833797EF47 /* PBXContainerItemProxy */;
+			targetProxy = 6057040F827B76A28EAB272EA443369D /* PBXContainerItemProxy */;
+		};
+		95E3370EA895183BBD500134487F9252 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = FBSnapshotTestCase;
+			target = 98A98149697C80CEF8D5772791E92E66 /* FBSnapshotTestCase */;
+			targetProxy = F88369D72A7F94834C43B424C9109852 /* PBXContainerItemProxy */;
+		};
+		F53FFB71E70DCA7CB3A5E733831DB7E2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = renxqNetwork;
+			target = 095AC6F6F21931760E9B5551A1D01E6C /* renxqNetwork */;
+			targetProxy = 08B765E848336CEBED7008A070A6A6C9 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -665,6 +698,37 @@
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
+		};
+		3D446187BEECBB75F2363906A14D6F10 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 54855E2250D16B558622FD971EA9CB3E /* renxqNetwork.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/renxqNetwork/renxqNetwork-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/renxqNetwork/renxqNetwork-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/renxqNetwork/renxqNetwork.modulemap";
+				PRODUCT_MODULE_NAME = renxqNetwork;
+				PRODUCT_NAME = renxqNetwork;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
 		};
 		3E39A517897BFCDD1DD7268CB1B69BE9 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -879,7 +943,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -918,9 +983,9 @@
 			};
 			name = Release;
 		};
-		DF0E2ED037925D5376F52FAC6725C144 /* Debug */ = {
+		FB1ABCA2F6F465DA9419DAF9A094C9F2 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1778B3C454568B64CFB6D56C23DDB34E /* renxqNetwork.debug.xcconfig */;
+			baseConfigurationReference = 62A9B649A562B2DC5C5633E4239AEC5E /* renxqNetwork.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -948,37 +1013,6 @@
 			};
 			name = Debug;
 		};
-		E9A91464BF20B640C8C4741ADBD4D625 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = B62781BFDFC22F165F2FC1D3EA2B30F2 /* renxqNetwork.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/renxqNetwork/renxqNetwork-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/renxqNetwork/renxqNetwork-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/renxqNetwork/renxqNetwork.modulemap";
-				PRODUCT_MODULE_NAME = renxqNetwork;
-				PRODUCT_NAME = renxqNetwork;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -1000,20 +1034,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		A2ED3402F9CBC8CAE3800E7E8F7DD803 /* Build configuration list for PBXNativeTarget "renxqNetwork" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FB1ABCA2F6F465DA9419DAF9A094C9F2 /* Debug */,
+				3D446187BEECBB75F2363906A14D6F10 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		A38070E189561F257BBD5A0A55CACCCF /* Build configuration list for PBXNativeTarget "FBSnapshotTestCase" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3E39A517897BFCDD1DD7268CB1B69BE9 /* Debug */,
 				BF531801B332EDF71FA8F4F9667B86BC /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		AF957861E087B8F1F19E04C6FF3883D3 /* Build configuration list for PBXNativeTarget "renxqNetwork" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				DF0E2ED037925D5376F52FAC6725C144 /* Debug */,
-				E9A91464BF20B640C8C4741ADBD4D625 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

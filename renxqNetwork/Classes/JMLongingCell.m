@@ -4,7 +4,11 @@
 //
 //  Created by 任雪强 on 16/5/12.
 //  Copyright © 2016年 任雪强. All rights reserved.
-//
+//我要测试一下
+//我要测试一下
+//我要测试一下
+//我要测试一下
+
 
 #import "JMLongingCell.h"
 #import "JMPhoneBtn.h"
